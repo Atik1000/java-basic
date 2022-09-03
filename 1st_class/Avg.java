@@ -16,5 +16,7 @@ public class Avg {
         }
         System.out.println("Average of the elements is: "+(sum/n));
     }
-    
 }
+
+ 
+  
